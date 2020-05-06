@@ -1,0 +1,42 @@
+.text-center {
+    text-align: center;
+  }
+
+.header {
+    background-color: #33e6bd;
+    height: 50px;
+    padding: 20px;
+    color: white;
+  }
+
+.left-content {
+  width: 20%;
+  float: left;
+}
+
+.right-content {
+  float: left;
+  width: 80%;
+}
+
+.notes-box {
+  display: inline-block;
+    width: 250px;
+    background-color: #e6e6e6;
+    margin-right: 18px;
+    margin-bottom: 18px;
+    height: 250px;
+    cursor: pointer;
+    overflow: auto;
+}
+
+.font-size-25 {
+  font-size: 25px;
+}
+
+.break-word {
+  word-wrap: break-word;
+}
+.pointer {
+  cursor: pointer;
+}
